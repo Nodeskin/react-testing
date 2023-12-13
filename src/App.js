@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <Login />
-      {/* <header className="App-header">
+      <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -31,7 +31,7 @@ function App() {
         </ul>
         <h1 data-testid="mytestid">Hello</h1>
         <span title="sum">{a + b}</span>
-      </header> */}
+      </header>
     </div>
   );
 }
